@@ -1,0 +1,348 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url('https://res.cloudinary.com/dqqiw8bz0/image/upload/v1687676701/bg-image_pmutxr.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.header-logo {
+    width: 80px;
+    height: 60px;
+
+}
+
+.navbar-expand-lg {
+    font-size: 22px;
+    color: #0f0f30;
+}
+
+.house-image {
+    width: 45px;
+    height: 45px;
+    margin-left: 333px;
+
+}
+
+.sit-image {
+    width: 45px;
+    height: 45px;
+    margin-left: 244px;
+
+}
+
+.heading-logo {
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.top-section-button {
+    color: white;
+    background-color: #1010e6;
+    width: 190px;
+    height: 55px;
+    border-width: 0;
+    border-radius: 20px;
+    margin-right: 10px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.header-section-img {
+    width: 85%;
+    height: 135%;
+    border-radius: 40px;
+}
+
+.header-section-heading {
+    color: #050559;
+    font-family: "Roboto";
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.header-section-description {
+    color: #0f0f30;
+    font-family: "Roboto";
+    font-size: 26px;
+}
+
+.top-section-button_2 {
+    color: white;
+    background-color: #1010e6;
+    width: 225px;
+    height: 50px;
+    border-width: 0;
+    border-radius: 20px;
+    margin-right: 10px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.header-section-description_2 {
+    color: #0f0f30;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.black-box-header {
+    margin-top: 20px;
+    background-color: #0d0d0d;
+    padding-top: 3px;
+    padding-bottom: 5px;
+}
+
+.oct {
+    background-image: linear-gradient(black 70%, blue 30%);
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    -webkit-clip-path: polygon(30% 0%, 70% 0%, 100% 30%, 100% 70%, 70% 100%, 30% 100%, 0% 70%, 0% 30%);
+    clip-path: polygon(30% 0%, 70% 0%, 100% 30%, 100% 70%, 70% 100%, 30% 100%, 0% 70%, 0% 30%);
+}
+
+.black-box-text-container {}
+
+.second-template-bg-container {
+    background-color: #f9fbfe;
+}
+
+.black-box-heading {
+    color: white;
+    font-size: 18px;
+    text-align: center;
+}
+
+.black-box-span-heading {
+    color: #1010e6;
+    font-size: 18px;
+    text-align: center;
+}
+
+.black-container {
+    background-color: #0a0a0a;
+    border-radius: 22px;
+}
+
+.second-template-text-container {
+    padding: 18px;
+}
+
+.second-template-heading {
+    color: #1010e6;
+    font-size: 32px;
+    font-weight: bold;
+
+}
+
+.second-template-description {
+    color: white;
+    font-size: 17px;
+
+}
+
+.octa-heading {
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 30px;
+
+}
+
+.octa-span-heading {
+    color: #1010e6;
+    font-size: 24px;
+    font-weight: bold;
+
+}
+
+.octa-blue-heading {
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 30px;
+}
+
+.expectations-text-container {}
+
+.expectations-card-container {
+    background-color: #c9c6c5;
+    border-radius: 22px;
+    margin-left: 22px;
+
+}
+
+.expectations-container-heading {
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.check-mark-image {
+    height: 30px;
+    width: 30px;
+}
+
+.expectations-bulletpoint_1 {
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.expectations-bulletpoint_2 {
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.expectations-bulletpoint_3 {
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.healthy-food-section-img {
+    width: 230px;
+    height: 270px;
+}
+
+.expectation-section-button {
+    color: white;
+    background-color: #1010e6;
+    width: 185px;
+    height: 40px;
+    border-width: 0;
+    border-radius: 20px;
+    margin-right: 10px;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.black-container_third {
+    background-color: #0a0a0a;
+}
+
+.third_text_container {
+    padding: 28px;
+
+}
+
+.span-text {
+    color: blue;
+    text-decoration: underline;
+}
+
+.third_container_heading {
+    font-size: 18px;
+    color: #c9c6c5;
+    font-family: 'Roboto';
+
+}
+
+.third_container_main_heading {
+    font-size: 22px;
+    color: white;
+    font-family: 'Roboto';
+    font-weight: bold;
+}
+
+.third-footer-text-container {
+    padding: 22px;
+}
+
+.third-container-checkpoints {
+    color: #4f4e4e;
+    font-size: 18px;
+}
+
+.final-template-headingg {
+    color: #1a1c1b;
+    font-size: 22px;
+    text-align: center;
+    padding: 13px;
+    font-weight: bold;
+    margin-top: 13px;
+}
+
+.final-template-button {
+    color: white;
+    background-color: #1010e6;
+    width: 180px;
+    height: 40px;
+    border-width: 0;
+    border-radius: 20px;
+    margin-right: 10px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.final-template-card-container {
+    background-color: #c9c6c5;
+    width: 75vw;
+
+}
+
+.final-template-footer-bg {
+    background-color: #171a18;
+    background-size: cover;
+    width: 75vw;
+}
+
+.final-template-heading {
+    font-size: 18px;
+    color: white;
+    font-weight: normal;
+}
+
+.final-heading-logo {
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+.footer-details {
+    margin-left: 26px;
+    margin-top: 26px;
+    font-size: 18px;
+    color: #b8c2ba;
+    font-weight: normal;
+}
+
+.contact-us-footer {
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+}
+
+.contact-us-description {
+    font-size: 18px;
+    color: white;
+    color: #b8c2ba;
+}
+
+.footer-section-mail-id {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.footer-section-address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.about-us-section {
+    background-color: white;
+}
+
+.follow-us-icon-container {
+    width: 80px;
+    height: 80px;
+    padding-top: 22px;
+}
